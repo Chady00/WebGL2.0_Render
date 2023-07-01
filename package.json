@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "webgl-obj-loader": "^2.0.8"
+  }
+}
